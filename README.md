@@ -1,9 +1,9 @@
-# ECEN-602 Programming Assignment 4
+ECEN-602 Programming Assignment 4
 ----------------------------------
 
 Team Number: 10
-Member 1 # Sama, Avani 
-Member 2 # Li, Wan  
+Member 1 # Sama, Avani
+Member 2 # Li, Wan
 ---------------------------------------
 
 Design:
